@@ -1,0 +1,27 @@
+{
+  "name": "purescript-corefn-parser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-debug": "^2.0.0",
+    "purescript-tuples": "^3.0.0",
+    "purescript-generics": "^3.0.0",
+    "purescript-arrays": "^3.0.0",
+    "purescript-foreign": "^3.0.0",
+    "purescript-console": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-quickcheck": "^3.0.0",
+    "purescript-node-buffer": "^2.0.0",
+    "purescript-node-fs": "^3.0.0"
+  },
+  "resolutions": {
+    "purescript-console": "^2.0.0",
+    "purescript-prelude": "^2.1.0",
+    "purescript-eff": "^2.0.0"
+  }
+}
